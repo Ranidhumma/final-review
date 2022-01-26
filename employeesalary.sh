@@ -1,5 +1,6 @@
-#!/bin/bash -x
+#write a program to calculate the salary of the employee for 20 working days and stored value in Array
 
+#!/bin/bash -x
 Total_Working_Days =20
 Emp_Per_Hr_salary=30
 totalsalary=0
